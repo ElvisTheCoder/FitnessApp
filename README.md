@@ -1,8 +1,8 @@
 # FitnessApp
 Using Chat Gpt-3 make an app:
 	• Will record records on lifts and find progression overtime. 
-	• It will compute ratios compared to lifts. 
-	• U can record lifts. 
+	• It will compute ratios compared to lifts.    
+	• U can record lifts.    
 	• U can add what type of rep it is: rpe, pause, chains, bands, ect
 	• Record your fitness plans. 
 	• Record macros. 
