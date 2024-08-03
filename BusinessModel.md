@@ -1,7 +1,9 @@
+Promblem Statement: Customers are having to use to many different fitness apps AND Fitness Influnencers have to create their own websites and infructure to sell their workout programs.
+ 
 Economics:   
 	- $19.99/month.  
-		○ Because MyFitnessPal is that price.  
-		○ We can charge Same price but merge the functionality of multiple apps.  
+	- Because MyFitnessPal is that price.  
+	- We can charge Same price but merge the functionality of multiple apps.  
 	- Buying tokens to pay for products within the app like a video game.   
 	- Rent the eBooks not buying them so to increase transactions with lower entry price.  
 	- Have  store to customer to buy products from their favorite fitness influencers.  
