@@ -1,4 +1,4 @@
-Promblem Statement: Customers are having to use to many different fitness apps AND Fitness Influnencers have to create their own websites and infructure to sell their workout programs.
+Problem Statement: Customers are having to use to many different fitness apps AND Fitness Influnencers have to create their own websites and infructure to sell their workout programs.
  
 Economics:   
 	- $19.99/month.  
